@@ -1,0 +1,2 @@
+# Native-Instruments-Kontakt-Torrent
+Native Instruments Kontakt Torrent is the standard in the world of samplers. Native Instruments Kontakt 6 provides a range of high-quality filters, ranging from classic analog circuits and variable-state models to modern format filters. Some of the 37 new filters use the new Adaptive Resonance concept, which automatically controls filter characteristics to prevent unpleasant sound artifacts from excessive resonant peaks.
